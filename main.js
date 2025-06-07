@@ -1,1 +1,1 @@
-new
+imprt "fs" new
